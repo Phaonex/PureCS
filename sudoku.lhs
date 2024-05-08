@@ -1,6 +1,4 @@
 A Simple Sudoku Solver
-27th September, 2007
-In Chapter 05
 _________________________________________________________
 0. Basic data types
 
