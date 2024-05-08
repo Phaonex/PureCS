@@ -1,2 +1,2 @@
 # PureCS
-A reasearch and implementation of computer science and math ideas in pure functional language in this case Haskell.
+A research and implementation of computer science and math ideas in a purely functional language, in this case, Haskell.
